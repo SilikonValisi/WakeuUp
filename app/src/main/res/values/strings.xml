@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">WakeUpApp</string>
+    <string name="enter_name_surname">Enter name and surname</string>
+    <string name="show">Show</string>
+
+</resources>
